@@ -2,6 +2,8 @@
 
 A public starter workspace for building, experimenting, and prototyping projects.
 
+<a href="https://altdirect.app/?url=https://github.com/xxx/xxx/releases/download/nightly/source.json&r=xxx" target="_blank">test</a>
+
 ## Overview
 
 Welcome to **project-sandbox**! This repository serves as a starting ground for upcoming features, experiments, and codebases.
